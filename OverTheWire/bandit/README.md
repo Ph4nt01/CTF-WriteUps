@@ -1,1 +1,1 @@
-#bandit notes
+# Bandit-WriteUps
