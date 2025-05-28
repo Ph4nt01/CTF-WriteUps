@@ -6,7 +6,7 @@ bandit26.sshkey
 
 bandit25@bandit:~$ exit
 
-scp -i bandit26.sshkey -P 2220 bandit26@bandit.labs.overthewire.org:text.txt /home/crow/
+scp -P 2220 bandit25@bandit.labs.overthewire.org:bandit26.sshkey /home/crow/
 
 ssh -i bandit26.sshkey bandit26@bandit.labs.overthewire.org -p 2220
 .
@@ -29,7 +29,7 @@ export TERM=linux
 more ~/text.txt
 exit 0
 
-#so we are stuck in more, and connection closes because the txt(bandit26 ascii banner) in text.txt is short and more does not go into interactive mode, it reads the txt and closes the connection imeaditly
+#so we are stuck in more, and connection closes because the txt(bandit26 ascii banner) in text.txt is short and more does not go into interactive mode, it reads the txt and closes the connection imideatly
 
 #so we must minimize the terminal window to the point that makes more go into interactive mode and dont close the connection.
 
