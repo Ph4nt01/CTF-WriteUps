@@ -1,12 +1,12 @@
 # 🔐 OverTheWire: Bandit CTF Writeups (Walkthrough + Summary)
 
-> A complete walkthrough and flag summary for [Bandit](https://overthewire.org/wargames/bandit/) levels 0–33  
+> A Walkthrough for [Bandit](https://overthewire.org/wargames/bandit/) levels 0–33  
 > Author: [Ph4nt01](https://github.com/Ph4nt01)  
-> ⚠️ Spoilers ahead — flags are included.
+> The walkthrough is in .txt files, the following is the summary 
 
 ---
 
-## 🧭 Full Walkthrough
+## 🧭 Summary:
 
 ### ✅ Level 0 → 1
 **Command:** `cat readme`  
@@ -142,40 +142,3 @@
 
 ---
 
-## 🏁 Flag Summary Table
-
-| Level      | Flag |
-|------------|------|
-| 0 → 1      | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 |
-| 1 → 2      | CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 |
-| 2 → 3      | UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK |
-| 3 → 4      | pIwrPrtPN36QITSp3EQaw936yaFoFgAB |
-| 4 → 5      | 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw |
-| 5 → 6      | HWasnPhtq9AVKe0dmk45nxy20cvUa6EG |
-| 6 → 7      | morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj |
-| 7 → 8      | dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc |
-| 8 → 9      | 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM |
-| 9 → 10     | FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey |
-| 10 → 11    | dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr |
-| 11 → 12    | 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 |
-| 12 → 13    | FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn |
-| 14 → 15    | 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo |
-| 15 → 16    | kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx |
-| 17 → 18    | x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO |
-| 18 → 19    | cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 |
-| 19 → 20    | 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO |
-| 20 → 21    | EeoULMCra2q0dSkYj561DX7s1CpBuOBt |
-| 21 → 22    | tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q |
-| 22 → 23    | 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga |
-| 23 → 24    | gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 |
-| 24 → 25    | iCi86ttT4KSNe1armKiwbQNmB3YJP3q4 |
-| 25 → 26    | s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ |
-| 26 → 27    | upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB |
-| 27 → 28    | Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN |
-| 28 → 29    | 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7 |
-| 29 → 30    | qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL |
-| 30 → 31    | fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy |
-| 31 → 32    | 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K |
-| 32 → 33    | tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0 |
-
----
