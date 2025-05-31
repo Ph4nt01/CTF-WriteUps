@@ -1,8 +1,7 @@
-# 🔐 OverTheWire: Bandit CTF Writeups (Walkthrough + Summary)
-
+# 🔐 OverTheWire: Bandit
 > A Walkthrough for [Bandit](https://overthewire.org/wargames/bandit/) levels 0–33  
 > Author: [Ph4nt01](https://github.com/Ph4nt01)  
-> The walkthrough is in .txt files, the following is the summary 
+> The walkthrough is in .txt files; the following is the summary. 
 
 ---
 
