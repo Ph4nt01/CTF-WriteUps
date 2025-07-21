@@ -2,7 +2,7 @@ In The Name of GOD
 
 
 
-#to git clone from a specific port we do this:
+##### to git clone from a specific port we do this:
  
 ╭─ ~ ···················································· 8s crow@Phantom 21:51:04 ─╮
 ╰─❯ git clone ssh://bandit27-git@bandit.labs.overthewire.org:2220/home/bandit27-git/repo

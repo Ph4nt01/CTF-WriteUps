@@ -29,7 +29,7 @@ drwxrwxr-x 8 bandit31 bandit31 4096 May 24 18:28 .git
 -rw-rw-r-- 1 bandit31 bandit31  147 May 24 18:28 README.md
 
 bandit31@bandit:/tmp/tts/repo$ vi .gitignore
-#remove*.txt from it
+###### remove*.txt from it
 
 bandit31@bandit:/tmp/tts/repo$ git add key.txt
 

@@ -10,4 +10,4 @@ bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
 
 
-#if you run a setuid file (./) with and a command following, it does the commandwith escalated privilage
+##### if you run a setuid file (./) with and a command following, it does the commandwith escalated privilage

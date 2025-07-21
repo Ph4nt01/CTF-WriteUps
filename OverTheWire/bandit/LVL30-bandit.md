@@ -31,7 +31,7 @@ Some notes for bandit30 of bandit.
 - password: <no passwords in production!>
 
 
-#The sentence ’no passwords in production!’ sounds like there might be more branches. So we check out, if this is the case.
+##### The sentence ’no passwords in production!’ sounds like there might be more branches. So we check out, if this is the case.
 
 
 bandit29@bandit:/tmp/tmp.Qjbad6ocpi/repo$ git branch -a
@@ -43,7 +43,7 @@ bandit29@bandit:/tmp/tmp.Qjbad6ocpi/repo$ git branch -a
 
 
 
-#We got a list of branches of this repository. Now, Since if the password is not in the production branch, it is most likely in the development branch(dev).
+##### We got a list of branches of this repository. Now, Since if the password is not in the production branch, it is most likely in the development branch(dev).
 
 
 bandit29@bandit:/tmp/tmp.Qjbad6ocpi/repo$ git checkout dev

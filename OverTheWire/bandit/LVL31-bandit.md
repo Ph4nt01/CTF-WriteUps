@@ -65,7 +65,7 @@ bandit30@bandit:/tmp/jasemm/repo$ git show 84368f3a7ee06ac993ed579e34b8bd144afad
 fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
 
 
-#OR
+# OR
 
 bandit30@bandit:/tmp/jasemm/repo$ git tag
 secret
