@@ -1,7 +1,7 @@
 # 🔐 OverTheWire: Bandit
 > A Walkthrough for [Bandit](https://overthewire.org/wargames/bandit/) levels 0–33  
 > Author: [Ph4nt01](https://github.com/Ph4nt01)  
-> The following is the summary of bandit lvl 0-33 walkthroughs:
+> The following is the summary of bandit lvl 0-33 walkthroughs.
 
 ---
 
