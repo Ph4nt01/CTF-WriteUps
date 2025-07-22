@@ -6,7 +6,7 @@ MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 Correct!
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 
-# OR
+##### OR
 
 bandit14@bandit:~$ telnet localhost 30000
 Trying 127.0.0.1...
