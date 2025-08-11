@@ -5,9 +5,9 @@
 
 
 
-## 🔐 Writeups
+## 🔐 WriteUps
 
-### [OverTheWire-Bandit](./OverTheWire/bandit/)
+### [OverTheWire-zzzzzzzBandit](./OverTheWire/bandit/)
 >A complete walkthrough of all 33 levels from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/)
 
 | Level | Difficulty | Topics Covered                              | Writeup                                                        |
@@ -17,7 +17,7 @@
 | 21-33 | Hard       | Cron jobs, Git exploitation, shell escaping | [View](./OverTheWire/bandit/BanditLVL0-33.md/#bandit-level-21) |
 
 
-## ✍️ Writeup Format
+## ✍️ WriteUp Format
 All writeups are generated using [WB-WriteupBuilder](https://github.com/Ph4nt01/WB-WriteupBuilder) and follow this consistent structure:
 
 ```markdown
