@@ -6,17 +6,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ph4nt01/CTF-WriteUps?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/Ph4nt01/CTF-WriteUps?style=flat-square)
 
-> A comprehensive collection of Capture The Flag (CTF) challenge writeups and solutions.
+> A comprehensive collection of Capture The Flag (CTF) writeups and solutions I've solved and written via my [tool](https://github.com/Ph4nt01/WB-WriteupBuilder).
 
-## 📚 Table of Contents
-- [About](#about)
-- [Writeups](#writeups)
-- [Writeup Format](#writeup-format)
-- [Navigation](#navigation)
-- [License](#license)
-
-## 📖 About
-This repository contains detailed writeups for various CTF challenges I've solved and written via my [tool](https://github.com/Ph4nt01/WB-WriteupBuilder).
 
 
 ## 🗂️ Writeups
@@ -24,19 +15,11 @@ This repository contains detailed writeups for various CTF challenges I've solve
 ### 🔐 OverTheWire Bandit
 A complete walkthrough of all 33 levels from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/):
 
-| Level | Difficulty | Topics Covered | Writeup |
-|-------|------------|----------------|---------|
-| 0-10  | Easy       | Basic Linux commands, file handling | [View](./OverTheWire/bandit/) |
-| 11-20 | Medium     | Encoding, networking, privilege escalation | [View](./OverTheWire/bandit/) |
-| 21-33 | Hard       | Cron jobs, Git exploitation, shell escaping | [View](./OverTheWire/bandit/) |
-
-### 🏆 Other CTF Platforms
-
-| Platform   | Challenges | Writeups |
-| ---------- | ---------- | -------- |
-| picoCTF    | [Number]   | [Link]   |
-| HackTheBox | [Number]   | [Link]   |
-| CTFtime    | [Number]   | [Link]   |
+| Level | Difficulty | Topics Covered                              | Writeup                                       |
+| ----- | ---------- | ------------------------------------------- | --------------------------------------------- |
+| 0-10  | Easy       | Basic Linux commands, file handling         | [View](./OverTheWire/bandit/BanditLVL0-33.md) |
+| 11-20 | Medium     | Encoding, networking, privilege escalation  | [View](./OverTheWire/bandit/BanditLVL0-33.md) |
+| 21-33 | Hard       | Cron jobs, Git exploitation, shell escaping | [View](./OverTheWire/bandit/BanditLVL0-33.md) |
 
 
 ## ✍️ Writeup Format
