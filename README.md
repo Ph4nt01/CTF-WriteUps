@@ -8,7 +8,7 @@
 ## 🔐 Writeups
 
 ### [OverTheWire-Bandit](./OverTheWire/bandit/)
-A complete walkthrough of all 33 levels from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/):
+>A complete walkthrough of all 33 levels from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/)
 
 | Level | Difficulty | Topics Covered                              | Writeup                                                        |
 | ----- | ---------- | ------------------------------------------- | -------------------------------------------------------------- |
