@@ -10,11 +10,11 @@
 ### [OverTheWire-Bandit](./OverTheWire/bandit/)
 >A complete walkthrough of all 33 levels from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/)
 
-| Level | Difficulty | Topics Covered                              | Writeup                                                        |
-| ----- | ---------- | ------------------------------------------- | -------------------------------------------------------------- |
-| 0-10  | Easy       | Basic Linux commands, file handling         | [View](./OverTheWire/bandit/BanditLVL0-33.md/#bandit-level-0)  |
-| 11-20 | Medium     | Encoding, networking, privilege escalation  | [View](./OverTheWire/bandit/BanditLVL0-33.md/#bandit-level-11) |
-| 21-33 | Hard       | Cron jobs, Git exploitation, shell escaping | [View](./OverTheWire/bandit/BanditLVL0-33.md/#bandit-level-21) |
+| Level | Difficulty | Topics Covered                              | Writeup                                                 |
+| ----- | ---------- | ------------------------------------------- | ------------------------------------------------------- |
+| 0-10  | Easy       | Basic Linux commands, file handling         | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-0)  |
+| 11-20 | Medium     | Encoding, networking, privilege escalation  | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-11) |
+| 21-33 | Hard       | Cron jobs, Git exploitation, shell escaping | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-21) |
 
 
 ## ✍️ WriteUp Format
@@ -50,8 +50,7 @@ The repository is organized as follows:
 ```
 CTF-WriteUps/
 ├── OverTheWire/
-│   └── bandit/                 # Bandit wargame writeups
-│        └── BanditLVL0-33.md 
+│        └── BanditLVL0-33.md   # Bandit wargame writeups
 ├── picoCTF/                    # picoCTF writeups
 ├── HackTheBox/                 # HackTheBox writeups
 ├── CTFtime/                    # CTFtime competition writeups
