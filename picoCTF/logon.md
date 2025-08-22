@@ -55,4 +55,5 @@ https://jupiter.challenges.picoctf.org/problem/44573/ (link) or http://jupiter.c
 
 # 📚 Takeaways
 
-- you could send a get request with specified cookies simply via running: `curl -b "cookie_name=cookie_value" https://example.com`
+- you could send a get request with specified cookies simply via running:
+  `curl -b "cookie_name=cookie_value" https://example.com`
