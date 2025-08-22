@@ -39,17 +39,17 @@ https://jupiter.challenges.picoctf.org/problem/44573/ (link) or http://jupiter.c
 - now we know we should send a get request to the flag url with the cookie -> 'admin': 'True' to see some thing
 
 - i did it via my [flagfinder](https://github.com/Ph4nt01/FF-FlagFinder) tool and found the flag
->The tool sends a get request (with specified headers or cookies) and downloads the response HTML → then it runs re.findall(<pattern>, content) for finding a match for the flag regex.
+>The tool sends a get request (with specified headers or cookies) and downloads the response HTML -> then it runs re.findall(<pattern>, content) for finding a match for the flag regex.
 
 ![image3](./imgs/Screenshot3.png)
 
 - we could also use curl command
 
-![image4](.imgs/Screenshot4.png)
+![image4](./imgs/Screenshot4.png)
 
 ---
 
-# 🚩 Flag -> `picoCTF{th3_c0nsp1r4cy_l1v3s_0c98aacc}`
+`🚩 Flag -> picoCTF{th3_c0nsp1r4cy_l1v3s_0c98aacc}`
 
 ---
 
