@@ -48,9 +48,11 @@ https://jupiter.challenges.picoctf.org/problem/44573/ (link) or http://jupiter.c
 ![image4](./imgs/Screenshot4.png)
 
 ---
+```markdown
 
-# 🚩 Flag -> `picoCTF{th3_c0nsp1r4cy_l1v3s_0c98aacc}`
+🚩 Flag -> `picoCTF{th3_c0nsp1r4cy_l1v3s_0c98aacc}`
 
+```
 ---
 
 # 📚 Takeaways
