@@ -22,7 +22,7 @@ All writeups are generated using [WB-WriteupBuilder](https://github.com/Ph4nt01/
 
 ```markdown
 # 📌 Challenge Overview
-| 🧩 Platform / Event | [Platform] |
+| 🧩 Platform & Name | [Platform]/[Challenge_name] |
 | ------------------- | ----------- |
 | 📅 Date             | [Date]      |
 | 🔰 Category         | [Category]  |
