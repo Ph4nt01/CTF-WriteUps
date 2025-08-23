@@ -65,5 +65,5 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 <p align="center">
   Made by <a href="https://github.com/Ph4nt01">Ph4nt01</a><br>
-  <em>Happy Hacking! 🚀</em>
+  <em>🚀</em>
 </p>
