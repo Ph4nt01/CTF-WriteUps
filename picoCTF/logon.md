@@ -1,11 +1,11 @@
 #  📌 Challenge Overview
 
-| 🧩 Platform / Event | picoCTF |
-| ------------------- | ------------------------------- |
-| 📅 Date             | 2025-08-22 |
-| 👾 Solver           | Ph4nt01 |
-| 🔰 Category         | web |
-| ⭐ Difficulty        | easy |
+| 🧩 Platform & Name | picoCTF/logon |
+| ------------------ | ------------- |
+| 📅 Date            | 2025-08-22    |
+| 👾 Solver          | Ph4nt01       |
+| 🔰 Category        | web           |
+| ⭐ Difficulty       | easy          |
 
 ---
 
