@@ -1,7 +1,7 @@
 
 # CTF-WriteUps
 
-> A comprehensive collection of Capture The Flag (CTF) writeups and solutions I've solved and written via my [tool](https://github.com/Ph4nt01/WB-WriteupBuilder).
+> A comprehensive collection of Capture The Flag (CTF) writeups and solutions I've solved (mainly web).
 
 
 
@@ -10,56 +10,26 @@
 ### [OverTheWire-Bandit](./OverTheWire/bandit/)
 >A complete walkthrough of all 33 levels from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/)
 
-| Level | Difficulty | Topics Covered                              | Writeup                                                 |
-| ----- | ---------- | ------------------------------------------- | ------------------------------------------------------- |
-| 0-10  | Easy       | Basic Linux commands, file handling         | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-0)  |
-| 11-20 | Medium     | Encoding, networking, privilege escalation  | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-11) |
-| 21-33 | Hard       | Cron jobs, Git exploitation, shell escaping | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-21) |
+| Level | Difficulty | Writeup                                                 |
+| ----- | ---------- | ------------------------------------------------------- |
+| 0-10  | Easy       | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-0)  |
+| 11-20 | Medium     | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-11) |
+| 21-33 | Hard       | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-21) |
+
+### [picoCTF](./picoCTF)
+
+| Name            | Difficulty | Writeup                              |
+| --------------- | ---------- | ------------------------------------ |
+| logon           | Easy       | [View](./picoCTF/logon.md)           |
+| Insp3ct0r       | Easy       | [View](./picoCTF/insp3ct0r.md)       |
+| Local Authority | Easy       | [View](./picoCTF/local_authority.md) |
+
+
+---
 
 
 ## ✍️ WriteUp Format
-All writeups are generated using [WB-WriteupBuilder](https://github.com/Ph4nt01/WB-WriteupBuilder) and follow this consistent structure:
-
-```markdown
-# 📌 Challenge Overview
-| 🧩 Platform & Name | [Platform]/[Challenge_name] |
-| ------------------- | ----------- |
-| 📅 Date             | [Date]      |
-| 🔰 Category         | [Category]  |
-| ⭐ Difficulty        | [Difficulty]|
-| 🎯 Points           | [Points]    |
----
-# 📋 Initial Info:
-[Challenge description]
----
-# 🔍 Initial Analysis:
-[First thoughts and approach]
----
-# ⚙️ Exploitation
-[Step-by-step solution]
----
-# 🚩 Flag -> [Solution]
----
-# 📚 Takeaways
-[Lessons learned]
-```
-
-
-## 🧭 Navigation
-The repository is organized as follows:
-```
-CTF-WriteUps/
-├── OverTheWire/
-│        └── BanditLVL0-33.md   # Bandit wargame writeups
-├── picoCTF/                    # picoCTF writeups
-├── HackTheBox/                 # HackTheBox writeups
-├── CTFtime/                    # CTFtime competition writeups
-└── README.md                   # This file
-```
-
-
-## 📄 License
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+All writeups are generated using [WB-WriteupBuilder](https://github.com/Ph4nt01/WB-WriteupBuilder)
 
 ---
 
