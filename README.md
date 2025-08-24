@@ -1,7 +1,7 @@
 
 # CTF-WriteUps
 
-> A comprehensive collection of Capture The Flag (CTF) writeups (mainly web).
+> My collection of Capture The Flag (CTF) writeups (mainly web).
 
 
 
@@ -29,7 +29,7 @@
 
 
 ## ✍️ WriteUp Format
-All writeups are generated using [WB-WriteupBuilder](https://github.com/Ph4nt01/WB-WriteupBuilder)
+All my writeups are generated via my tool -> [WB-WriteupBuilder](https://github.com/Ph4nt01/WB-WriteupBuilder)
 
 ---
 
