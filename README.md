@@ -1,7 +1,7 @@
 
 # CTF-WriteUps
 
-> My collection of Capture The Flag (CTF) writeups (mainly web).
+> A collection of my Capture The Flag (CTF) writeups (mainly web).
 
 
 
@@ -16,7 +16,7 @@
 | 11-20 | Medium     | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-11) |
 | 21-33 | Hard       | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-21) |
 
-### [picoCTF from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/)￼](./picoCTF)
+### [picoCTF](./picoCTF)
 
 | Name            | Difficulty | Writeup                              |
 | --------------- | ---------- | ------------------------------------ |
@@ -29,7 +29,7 @@
 
 
 ## ✍️ WriteUp Format
-All my writeups are generated via my tool -> [WB-WriteupBuilder](https://github.com/Ph4nt01/WB-WriteupBuilder)
+All my writeups are generated using [WB-WriteupBuilder](https://github.com/Ph4nt01/WB-WriteupBuilder)
 
 ---
 
