@@ -4,8 +4,8 @@
 | ------------------ | ------------- |
 | 📅 Date            | 2025-08-22    |
 | 👾 Solver          | Ph4nt01       |
-| 🔰 Category        | web           |
-| ⭐ Difficulty       | easy          |
+| 🔰 Category        | Web           |
+| ⭐ Difficulty       | Easy          |
 
 ---
 
