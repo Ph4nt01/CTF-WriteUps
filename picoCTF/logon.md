@@ -25,7 +25,7 @@
 
 ![image1](./imgs/Screenshot1.png)
 
-### - inspected DevTools and found a weird cookie in Application -> Cookies
+### - opened DevTools and found a weird cookie in Application -> Cookies
 
 ![image2](./imgs/Screenshot2.png)
 
