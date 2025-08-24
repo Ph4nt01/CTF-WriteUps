@@ -41,18 +41,16 @@
   ![img](./imgs/insp4.png)
 
 ---
-
 ```markdown
 
 🚩 Flag -> `picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?f10be399}`
 
 ```
-
 ---
 
 # 📚 Takeaways
 
-- when the website tells you to inspect, you probably should inspect.
+### - when the website tells you to inspect, you probably should inspect.
 
 ---
 
