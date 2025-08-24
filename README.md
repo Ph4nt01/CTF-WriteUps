@@ -1,7 +1,7 @@
 
 # CTF-WriteUps
 
-> A comprehensive collection of Capture The Flag (CTF) writeups and solutions I've solved (mainly web).
+> A comprehensive collection of Capture The Flag (CTF) writeups (mainly web).
 
 
 
