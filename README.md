@@ -8,7 +8,7 @@
 ## 🔐 WriteUps
 
 ### [OverTheWire-Bandit](./OverTheWire/bandit/)
->A complete solutions of all 33 levels
+>Solutions of all 33 levels
 
 | Level | Difficulty | Writeup                                                 |
 | ----- | ---------- | ------------------------------------------------------- |
@@ -16,7 +16,7 @@
 | 11-20 | Medium     | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-11) |
 | 21-33 | Hard       | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-21) |
 
-### [picoCTF](./picoCTF)
+### [picoCTF from the [OverTheWire Bandit wargame](https://overthewire.org/wargames/bandit/)￼](./picoCTF)
 
 | Name            | Difficulty | Writeup                              |
 | --------------- | ---------- | ------------------------------------ |
