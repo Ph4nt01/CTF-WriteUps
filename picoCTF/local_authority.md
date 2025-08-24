@@ -15,3 +15,34 @@
 
 ---
 
+# 🔍 Initial Analysis:
+
+### - saw a login page, tried logging in with a random username and password, redirected me to `http://saturn.picoctf.net:57950/login.php` and said "Log In Failed"
+### - inspected the web page
+### ![img](./imgs/la1.png)
+### - found admin credentials in secure.js
+### ![img](./imgs/la2.png)
+
+---
+
+# ⚙️ Exploitation
+
+### - tried the found creds and got the flag
+### ![img](./imgs/la3.png)
+
+---
+
+```markdown
+
+🚩 Flag -> `picoCTF{j5_15_7r4n5p4r3n7_05df90c8}`
+
+```
+
+---
+
+# 📚 Takeaways
+
+### - maybe we should not put the admin credentials in secure.js :)
+
+---
+
