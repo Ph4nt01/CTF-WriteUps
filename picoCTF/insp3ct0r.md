@@ -26,12 +26,12 @@
 
 # ⚙️ Exploitation
 
-#### - checked the HTML and found what seems to be the first part of the flag -> `picoCTF{tru3_d3`
+### - checked the HTML and found what seems to be the first part of the flag -> `picoCTF{tru3_d3`
 
   ![img](./imgs/insp2.png)
 
 
-#### - checked the CSS and found the second part -> `t3ct1ve_0r_ju5t`
+### - checked the CSS and found the second part -> `t3ct1ve_0r_ju5t`
 
   ![img](./imgs/insp3.png)
 
