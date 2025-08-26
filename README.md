@@ -24,7 +24,7 @@
 | Insp3ct0r       | Easy       | [View](./picoCTF/insp3ct0r.md)       |
 | Local Authority | Easy       | [View](./picoCTF/local_authority.md) |
 
-otw
+
 ---
 
 
