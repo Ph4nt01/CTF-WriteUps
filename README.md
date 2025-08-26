@@ -7,14 +7,14 @@
 
 ## 🔐 WriteUps
 
-### [OverTheWire-Bandit](./OverTheWire/bandit/)
->Solutions of all 33 levels
+### [OverTheWire](./OverTheWire)
 
-| Level | Difficulty | Writeup                                                 |
-| ----- | ---------- | ------------------------------------------------------- |
-| 0-10  | Easy       | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-0)  |
-| 11-20 | Medium     | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-11) |
-| 21-33 | Hard       | [View](./OverTheWire/BanditLVL0-33.md/#bandit-level-21) |
+| Name                | Difficulty | Writeup                                |
+| ------------------- | ---------- | -------------------------------------- |
+| Bandit(lvl 0 to 33) | Easy       | [View](./OverTheWire/BanditLVL0-33.md) |
+
+
+
 
 ### [picoCTF](./picoCTF)
 
@@ -24,7 +24,7 @@
 | Insp3ct0r       | Easy       | [View](./picoCTF/insp3ct0r.md)       |
 | Local Authority | Easy       | [View](./picoCTF/local_authority.md) |
 
-
+otw
 ---
 
 
