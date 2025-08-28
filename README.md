@@ -3,7 +3,7 @@
 
 > A collection of my Capture The Flag (CTF) writeups (mainly web).
 
-
+---
 
 ## 🔐 WriteUps
 
