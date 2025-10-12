@@ -15,9 +15,9 @@
 
 ---
 
-# 🔓 Solving
+# 🔓 Solving:
 
-### as always we check the source code first; and the flag is found
+### - as always we check the source code first; and the flag is found
 ### ![img](./imgs/lvl2-1.png)
 
 ---

@@ -15,9 +15,9 @@
 
 ---
 
-# 🔓 Solving
+# 🔓 Solving:
 
-### simply changing the level-01 in the address to level-02, directs us to next level
+### - simply changing the level-01 in the address to level-02, directs us to next level
 
 ---
 
