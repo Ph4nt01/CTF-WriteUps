@@ -24,7 +24,7 @@
 
 ---
 
-# ⚙️ Exploitation
+# 🔓 Solving:
 
 ### - checked the HTML and found what seems to be the first part of the flag -> `picoCTF{tru3_d3`
 

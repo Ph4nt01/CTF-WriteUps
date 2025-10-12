@@ -25,7 +25,7 @@
 
 ---
 
-# ⚙️ Exploitation
+# 🔓 Solving:
 
 ### - tried the found creds, redirected me to `http://saturn.picoctf.net:52950/admin.php` and gave me the flag
 ### ![img](./imgs/la3.png)

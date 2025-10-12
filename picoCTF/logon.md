@@ -31,7 +31,7 @@
 
 ---
 
-# ⚙️ Exploitation
+# 🔓 Solving:
 
 ### - now we know we should send a get request to the flag url with the cookie -> 'admin': 'True' to see some thing
 
