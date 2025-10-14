@@ -18,8 +18,22 @@
 # 🔍 Initial Analysis:
 
 ### - well its telling us we must send it a certain request to find out the flag
-### - after checking out the source code i saw "hidden" form field
+### - after checking out the source code i saw a "hidden" form field
 ### ![img](.imgs/lvl7-1.png)
 
 ---
 
+# 🔓 Solving
+
+### - using curl, sent a `POST` request with the form field's `name=value` and it gave me the flag
+### ![img](./imgs/lvl7-2.png)
+
+---
+
+```markdown
+
+🚩 Flag -> `/YTExMTUzOW`
+
+```
+
+---
