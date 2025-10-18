@@ -19,7 +19,7 @@
 
 ### - well its telling us we must send it a certain request to find out the flag
 ### - after checking out the source code i saw a "hidden" form field
-### ![img](.imgs/lvl7-1.png)
+### ![img](./imgs/lvl7-1.png)
 
 ---
 
@@ -28,6 +28,9 @@
 ### - using curl, sent a `POST` request with the form field's `name=value` and it gave me the flag
 ### ![img](./imgs/lvl7-2.png)
 
+### - this flag can be achieved with an easier way, we can change the field's input type from `hidden` to `text` then press enter to get the flag
+### ![img](./imgs/lvl7-3.png)
+### ![img](./imgs/lvl7-4.png)
 ---
 
 ```markdown
