@@ -21,3 +21,20 @@
 
 ---
 
+# 🔓 Solving
+
+### - first we should make a base64 string from `admin=arrival`, i did it via `base64` command
+### ![img](./imgs/lvl9-1.png)
+### - then we add the auth header in the request and forward it
+### ![img](./imgs/lvl9-2.png)
+### ![img](./imgs/lvl9-3.png)
+
+---
+
+```markdown
+
+🚩 Flag -> `/2ZjNmNTc0N`
+
+```
+
+---
