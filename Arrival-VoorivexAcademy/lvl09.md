@@ -1,11 +1,11 @@
 #  📌 Challenge Overview
 
 | 🧩 Platform & Name | Arrival-VoorivexAcademy/lvl9 |
-| ------------------- | ------------------------------- |
-| 📅 Date             | 2025-10-18 |
-| 👾 Solver           | Ph4tn01 |
-| 🔰 Category         | web |
-| ⭐ Difficulty        | easy |
+| ------------------ | ---------------------------- |
+| 📅 Date            | 2025-10-18                   |
+| 👾 Solver          | Ph4nt01                      |
+| 🔰 Category        | web                          |
+| ⭐ Difficulty       | easy                         |
 
 ---
 

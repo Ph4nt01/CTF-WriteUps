@@ -24,3 +24,19 @@
 
 ---
 
+# 🔓 Solving
+
+### - we put the breakpoint at that line, and refresh the site
+### ![](./imgs/lvl15-2.png)
+### - then we resume script execution untill we find the flag
+### ![](./imgs/lvl15-3.png)
+
+---
+
+```markdown
+
+🚩 Flag -> `/ZIMGZhZDM4`
+
+```
+
+---
