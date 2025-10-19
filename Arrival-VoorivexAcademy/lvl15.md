@@ -28,8 +28,12 @@
 
 ### - we put the breakpoint at that line, and refresh the site
 ### ![](./imgs/lvl15-2.png)
-### - then we resume script execution untill we find the flag
+### - then we resume script execution and make the loop run until we find the flag
 ### ![](./imgs/lvl15-3.png)
+
+### - or the better way would be to set a conditional break point which says "if the variable `d` contains `Next` stop loading"; the command would be this `d.indexOf('Next') > -1`
+### ![](./imgs/lvl15-4.png)
+### ![](./imgs/lvl15-5.png)
 
 ---
 
