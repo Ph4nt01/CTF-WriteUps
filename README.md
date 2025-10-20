@@ -13,8 +13,11 @@
 | ------------------- | ---------- | -------------------------------------- |
 | Bandit(lvl 0 to 33) | Easy       | [View](./OverTheWire/BanditLVL0-33.md) |
 
+### [VoorivexAcademy](./VoorivexAcademy)
 
-
+| Name    | Difficulty  | Writeup                           |
+| ------- | ----------- | --------------------------------- |
+| Arrival | Easy/Medium | [View](./VoorivexAcademy/Arrival) |
 
 ### [picoCTF](./picoCTF)
 
