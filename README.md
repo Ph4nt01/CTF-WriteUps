@@ -9,15 +9,16 @@
 
 ### [OverTheWire](./OverTheWire)
 
-| Name                | Difficulty | Related Topic             | Writeup                                |
-| ------------------- | ---------- | ------------------------- | -------------------------------------- |
-| Bandit(lvl 0 to 33) | Easy       | Web & Linux Foundomentals | [View](./OverTheWire/BanditLVL0-33.md) |
+| Name               | Difficulty | Related Topic             | Writeup                                |
+| ------------------ | ---------- | ------------------------- | -------------------------------------- |
+| Bandit / LVL 0-33) | Easy       | Web & Linux Foundomentals | [View](./OverTheWire/BanditLVL0-33.md) |
 
 ### [VoorivexAcademy](./VoorivexAcademy)
 
-| Name    | Difficulty  | Related Topic              | Writeup                           |
-| ------- | ----------- | -------------------------- | --------------------------------- |
-| Arrival | Easy/Medium | Web & Crypto Foundomentals | [View](./VoorivexAcademy/Arrival) |
+| Name               | Difficulty  | Related Topic              | Writeup                           |
+| ------------------ | ----------- | -------------------------- | --------------------------------- |
+| Arrival / LVL 1-21 | Easy/Medium | Web & Crypto Foundomentals | [View](./VoorivexAcademy/Arrival) |
+
 
 ### [picoCTF](./picoCTF)
 
