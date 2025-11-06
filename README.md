@@ -9,23 +9,23 @@
 
 ### [OverTheWire](./OverTheWire)
 
-| Name                | Difficulty | Writeup                                |
-| ------------------- | ---------- | -------------------------------------- |
-| Bandit(lvl 0 to 33) | Easy       | [View](./OverTheWire/BanditLVL0-33.md) |
+| Name                | Difficulty | Related Topic             | Writeup                                |
+| ------------------- | ---------- | ------------------------- | -------------------------------------- |
+| Bandit(lvl 0 to 33) | Easy       | Web & Linux Foundomentals | [View](./OverTheWire/BanditLVL0-33.md) |
 
 ### [VoorivexAcademy](./VoorivexAcademy)
 
-| Name    | Difficulty  | Writeup                           |
-| ------- | ----------- | --------------------------------- |
-| Arrival | Easy/Medium | [View](./VoorivexAcademy/Arrival) |
+| Name    | Difficulty  | Related Topic              | Writeup                           |
+| ------- | ----------- | -------------------------- | --------------------------------- |
+| Arrival | Easy/Medium | Web & Crypto Foundomentals | [View](./VoorivexAcademy/Arrival) |
 
 ### [picoCTF](./picoCTF)
 
-| Name            | Difficulty | Writeup                              |
-| --------------- | ---------- | ------------------------------------ |
-| logon           | Easy       | [View](./picoCTF/logon.md)           |
-| Insp3ct0r       | Easy       | [View](./picoCTF/insp3ct0r.md)       |
-| Local Authority | Easy       | [View](./picoCTF/local_authority.md) |
+| Name            | Difficulty | Related Topic  | Writeup                              |
+| --------------- | ---------- | -------------- | ------------------------------------ |
+| logon           | Easy       | Web / Cookies  | [View](./picoCTF/logon.md)           |
+| Insp3ct0r       | Easy       | Web / DevTools | [View](./picoCTF/insp3ct0r.md)       |
+| Local Authority | Easy       | Web / DevTools | [View](./picoCTF/local_authority.md) |
 
 
 ---
